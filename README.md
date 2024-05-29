@@ -1,6 +1,6 @@
 ## Live version
 
-Available at GitHub pages: <https://tyurina-yuliya.github.io/houses/>
+Available at GitHub pages: <https://tyurina-yuliya.github.io/macaroons/>
 
 ## Used technologies:
 
