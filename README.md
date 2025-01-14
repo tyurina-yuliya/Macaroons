@@ -1,6 +1,6 @@
 ## Live version
 
-Available at GitHub pages: <https://tyurina-yuliya.github.io/macaroons/>
+Available at GitHub pages: <https://tyurina-yuliya.github.io/Macaroons/>
 
 ## Used technologies:
 
